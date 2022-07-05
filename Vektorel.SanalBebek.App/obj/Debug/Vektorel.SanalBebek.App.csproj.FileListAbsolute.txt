@@ -1,0 +1,8 @@
+C:\Users\vektorel\Desktop\29 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SanalBebek.App\bin\Debug\Vektorel.SanalBebek.App.exe.config
+C:\Users\vektorel\Desktop\29 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SanalBebek.App\bin\Debug\Vektorel.SanalBebek.App.exe
+C:\Users\vektorel\Desktop\29 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SanalBebek.App\bin\Debug\Vektorel.SanalBebek.App.pdb
+C:\Users\vektorel\Desktop\29 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SanalBebek.App\obj\Debug\Vektorel.SanalBebek.App.exe
+C:\Users\vektorel\Desktop\29 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SanalBebek.App\obj\Debug\Vektorel.SanalBebek.App.pdb
+C:\Users\vektorel\Desktop\03 Ağustos 2019\Vektorel.BasicProgramming\Vektorel.SanalBebek.App\bin\Debug\Vektorel.SanalBebek.App.exe.config
+C:\Users\vektorel\Desktop\03 Ağustos 2019\Vektorel.BasicProgramming\Vektorel.SanalBebek.App\obj\Debug\Vektorel.SanalBebek.App.exe
+C:\Users\vektorel\Desktop\03 Ağustos 2019\Vektorel.BasicProgramming\Vektorel.SanalBebek.App\obj\Debug\Vektorel.SanalBebek.App.pdb
